@@ -1,0 +1,23 @@
+server:
+  port: 9001
+spring:
+  application:
+    name: config-center
+  cloud:
+    config:
+      server:
+        git:
+          uri: file:////Users/chaofuwang/Downloads/config
+#          uri: https://github.com/VincentWangcf/config
+#          username: 445047477@qq.com
+#          password: w1123510*
+#          uri: https://github.com/jilinwula/springcloud-config
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8761/eureka/
+
+
+
+
+

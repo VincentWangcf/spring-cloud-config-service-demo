@@ -1,2 +1,2 @@
-my:
-  name: vincnet
+server:
+  port: 9001
