@@ -10,7 +10,7 @@ spring:
           uri: file:////Users/chaofuwang/Downloads/config
 #          uri: https://github.com/VincentWangcf/config
 #          username: 445047477@qq.com
-#          password: w1123510*
+#          password: w1123510*   呜呜呜
 #          uri: https://github.com/jilinwula/springcloud-config
 eureka:
   client:
